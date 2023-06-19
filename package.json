@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jenesh/Random-Things-Library.git"
+    "url": "git+https://github.com/jenesh/random-large-data.git"
   },
   "keywords": [
     "random-data",
@@ -17,12 +17,14 @@
     "array",
     "object",
     "array",
-    "numbers"
+    "numbers",
+		"random-large-data",
+		"large-data"
   ],
   "author": "Jenesh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jenesh/Random-Things-Library/issues"
+    "url": "https://github.com/jenesh/random-large-data/issues"
   },
-  "homepage": "https://github.com/jenesh/Random-Things-Library#readme"
+  "homepage": "https://github.com/jenesh/random-large-data#readme"
 }
