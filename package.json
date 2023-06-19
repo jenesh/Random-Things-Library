@@ -1,0 +1,28 @@
+{
+  "name": "random-large-data",
+  "version": "1.0.0",
+  "description": "Generate different types of data quickly, great for things such as prototyping and testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenesh/Random-Things-Library.git"
+  },
+  "keywords": [
+    "random-data",
+    "random",
+    "data",
+    "array",
+    "object",
+    "array",
+    "numbers"
+  ],
+  "author": "Jenesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenesh/Random-Things-Library/issues"
+  },
+  "homepage": "https://github.com/jenesh/Random-Things-Library#readme"
+}
