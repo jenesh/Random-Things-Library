@@ -20,3 +20,30 @@ If you have any requests please feel free to create a [New issue](https://github
 
 ## Contribution 🙌
 I'd be more than happy for any contribution to this package! Simply make your changes in a new branch and create a [Pull Request](https://github.com/jenesh/random-large-data/pulls)
+
+## Currently Available Methods (more coming soon!) 👨‍💻
+
+```js
+// Returns a random whole number from 0 < num
+randomNumber(num = 100)
+> randomNumber(10)
+> 5
+
+// Returns an array of the given arrSize based on the min and max number
+arrayNumGenerator(min = 0, max = 1, arrSize = 10)
+> arrayNumGenerator(0, 100, 5)
+> [ 29, 0, 52, 0, 96, 0 ]
+
+// Returns an array of the given arrSize and the strSize
+arrayStrGenerator(arrSize = 10, strSize = 5)
+> arrayStrGenerator(5, 5)
+> [ 'njplr', 'hkkbt', 'zfdup', 'fvnbp', 'khztm' ]
+```
+
+## Todo
+- Update to TypeScript
+- Add other data types
+- Support different use cases/categories (Personal data, Business data)
+- Add random chat data
+- Add username and password generators
+- Add common dialog and language
