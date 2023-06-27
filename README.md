@@ -41,7 +41,7 @@ arrayStrGenerator(arrSize = 10, strSize = 5)
 ```
 
 ## Todo
-- Update to TypeScript
+- ~~Update to TypeScript~~ [Done]
 - Add other data types
 - Support different use cases/categories (Personal data, Business data)
 - Add random chat data
