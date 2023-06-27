@@ -40,6 +40,9 @@ arrayStrGenerator(arrSize = 10, strSize = 5)
 > [ 'njplr', 'hkkbt', 'zfdup', 'fvnbp', 'khztm' ]
 ```
 
+## Report all bugs 🐛 here:
+https://github.com/jenesh/random-large-data/issues
+
 ## Todo
 - ~~Update to TypeScript~~ [Done]
 - Add other data types
